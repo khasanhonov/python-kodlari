@@ -1,0 +1,9 @@
+son = 4
+
+i = 0
+yigindi = 0
+while i <= son:
+    yigindi += i
+    i += 1
+
+print(yigindi)  # Natija: 10

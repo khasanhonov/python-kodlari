@@ -1,0 +1,10 @@
+royxat = [1, 2, 3]
+n = 2
+
+i = 0
+yigindi = 0
+while i < n:
+    yigindi += royxat[i]
+    i += 1
+
+print(yigindi)  # Natija: 3

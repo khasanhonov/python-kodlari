@@ -1,0 +1,15 @@
+import random 
+n = 3  
+
+i = 0
+natija = ""
+
+while i < n:
+    raqam = random.randint(0, 9)
+    if i == 0 and raqam == 0:
+        raqam = random.randint(1, 9)
+
+    natija = natija + str(raqam)
+    i = i + 1
+
+print(int(natija))
