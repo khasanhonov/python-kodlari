@@ -4,7 +4,8 @@ class Moshin:
         self.vaxt = vaxt
 
     def xaqida(self):
-        return self.tezlik * self.vaxt
+        self.tezlik  
+        self.vaxt
 
-moshin = moshin(60, 2)
+moshin = moshina(60, 2)
 print(moshin.xaqida())  
