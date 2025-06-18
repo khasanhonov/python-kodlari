@@ -1,1 +1,1 @@
-{super().__str__() 
+shakllar = [line1,t]
